@@ -1,0 +1,16 @@
+displayName: Extra Wave Sounds
+name: extra-wave-sounds
+author: Mythril
+description:
+    '''
+    Adds extra wave sounds. There are currently only three:
+    - Imminent (Plays when a wave before a wave with a guardian starts.)
+    - Guardian (Plays when a wave with a guardian starts.)
+    - Final (Plays when the final wave starts.)
+    
+    This idea was actually taken from my other (most likely discontinued) mod.
+    '''
+subtitle: v1.0.0
+version: 1.0.0
+minGameVersion: 149
+repo: Mythril382/Extra-Wave-Sounds
