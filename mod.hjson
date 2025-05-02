@@ -13,4 +13,5 @@ description:
 subtitle: v1.0.0
 version: 1.0.0
 minGameVersion: 149
-repo: Mythril382/Extra-Wave-Sounds
+repo: Mythril382/ExtraWaveSounds
+hidden: true
